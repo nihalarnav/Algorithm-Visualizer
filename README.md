@@ -1,1 +1,1 @@
-# Open-Algorithm-Visualizer
+# Algorithm-Visualizer
